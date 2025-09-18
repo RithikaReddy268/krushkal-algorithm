@@ -1,0 +1,7 @@
+Edge: (1,4)  Weight = 5
+Edge: (2,5)  Weight = 5
+Edge: (4,6)  Weight = 6
+Edge: (3,5)  Weight = 5
+Edge: (1,2)  Weight = 7
+Edge: (2,3)  Weight = 8
+Minimum cost: 36
